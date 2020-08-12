@@ -1,7 +1,7 @@
   <div  align="center">
   <h1 align="center"> Proffy </h1>
-  <img  height="350" alt="web-demo" src="./github/proffyweb.gif">
-  <img  height="350" alt="mobile-demo" src="./github/proffymob.gif">
+  <img  height="300" alt="web-demo" src="./github/proffyweb.gif">
+  <img  height="300" alt="mobile-demo" src="./github/proffymob.gif">
   </div>
   
   ## :stars: Sobre
